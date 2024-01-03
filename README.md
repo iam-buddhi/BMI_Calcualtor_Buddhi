@@ -1,6 +1,7 @@
 # BMI_Calculator
 
-App developed to calculate BMI in Android Studio Using Java
+App developed to calculate BMI in Android Studio Using Java.
+You can try the app from here:https://drive.google.com/file/d/16wAMVKAFfJNdMUgizTQXGuz2di0xJTdS/view?usp=sharing
 
 Here Are Few Screenshots For The Refrence:
 
