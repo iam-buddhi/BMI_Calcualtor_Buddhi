@@ -33,7 +33,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginEnd="21dp"
         android:layout_marginRight="20dp"
-        android:layout_marginBottom="37dp"
+        android:layout_marginBottom="40dp"
         android:layout_toStartOf="@id/centerverticalline"
         android:background="@drawable/cardbackgroung">
 
@@ -74,7 +74,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginLeft="21dp"
         android:layout_marginRight="20dp"
-        android:layout_marginBottom="35dp"
+        android:layout_marginBottom="40dp"
         android:layout_toEndOf="@id/centerverticalline"
         android:background="@drawable/cardbackgroung">
 

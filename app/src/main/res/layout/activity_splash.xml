@@ -4,50 +4,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#2c2c2c"
+    android:background="#000000"
     tools:context=".splash">
 
     <ImageView
         android:id="@+id/logo"
-        android:layout_width="224dp"
-        android:layout_height="194dp"
+        android:layout_width="281dp"
+        android:layout_height="409dp"
         android:layout_centerInParent="true"
         android:src="@drawable/bmifinall">
 
     </ImageView>
 
     <TextView
-        android:id="@+id/bmitext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/logo"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="68dp"
-        android:layout_marginEnd="115dp"
-        android:fontFamily="@font/raleway"
-        android:lineSpacingExtra="2dp"
-        android:text="BMI CALCULATOR"
-        android:textColor="@color/white"
-        android:textSize="20sp"
-        android:textStyle="bold">
-
-
-    </TextView>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/bmitext"
-        android:layout_alignParentEnd="true"
-        android:layout_centerInParent="true"
-        android:layout_marginTop="71dp"
-        android:layout_marginEnd="138dp"
-        android:fontFamily="@font/raleway"
-        android:lineSpacingExtra="2dp"
+        android:layout_centerHorizontal="true"
         android:text="-@iam-buddhi"
-        android:textColor="@color/white"
+        android:layout_marginTop="45dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/raleway"
         android:textSize="20sp"
-        android:textStyle="bold">
+        android:layout_below="@id/logo"
+        android:textColor="@color/white"
+        android:lineSpacingExtra="2dp">
 
     </TextView>
 
